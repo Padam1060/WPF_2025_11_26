@@ -1,0 +1,15 @@
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\bin\Debug\Wpffeladatgit.exe.config
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\bin\Debug\Wpffeladatgit.exe
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\bin\Debug\Wpffeladatgit.pdb
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.csproj.AssemblyReference.cache
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\MainWindow.g.cs
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\App.g.cs
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit_MarkupCompile.cache
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit_MarkupCompile.lref
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\MainWindow.baml
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.g.resources
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.Properties.Resources.resources
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.csproj.GenerateResource.cache
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.csproj.CoreCompileInputs.cache
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.exe
+D:\Papp13c\Wpffeladatgit\Wpffeladatgit\obj\Debug\Wpffeladatgit.pdb
